@@ -1,0 +1,148 @@
+.container2{
+    margin-top: 150px;
+    .container_block{
+        display: flex;
+        justify-content: space-evenly;
+        border-radius: 20px;
+        background: var(--Gray, #FAFBFF);
+        width: 1140px;
+        height: 1080px;
+        flex-shrink: 0;
+        .container2__one{
+            display: block;
+            align-items: center;
+            justify-content: center;
+            width: 480px;
+            height: 900px;
+        }
+        .container2__two{
+            display: inline-block;
+            align-items: center;
+            justify-content: center;
+            width: 480px;
+            height: 900px;
+        }
+        .container_block__h1{
+            color: var(--Font, #0C1523);
+            font-family: Inter;
+            font-size: 42.536px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+            text-transform: capitalize;
+            margin-top: 90px;
+        }
+
+        .container_block__but{
+            color: var(--Gray, #FAFBFF);
+            font-family: Inter;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+            border-radius: 9px;
+            background: var(--Font, #0C1523);
+            padding: 15px 25px;
+            margin-top: 20px;
+        }
+
+        .container_block_d1{
+            margin-top: 85px;
+            width: 458px;
+            height: 260px;
+            flex-shrink: 0;
+            border-radius: 15px;
+            margin-top: 10px;
+            background: #FFF;
+            .line{
+                background: linear-gradient(270deg, rgba(65, 245, 192, 0.05) 0%, #41F5C0 49.29%, rgba(65, 245, 192, 0.05) 100%);
+                width: 437px;
+                height: 5px;
+                margin-top: 50px;
+            }
+        }
+        .container_block_d2{
+            width: 458px;
+            height: 260px;
+            flex-shrink: 0;
+            border-radius: 15px;
+            margin-top: 10px;
+            background: #FFF;
+            .line{
+                background: linear-gradient(270deg, rgba(65, 245, 192, 0.05) 0%, #41F5C0 49.29%, rgba(65, 245, 192, 0.05) 100%);
+                width: 437px;
+                height: 5px;
+                margin-top: 50px;
+            }
+        }
+
+        .container_block_d3{
+            width: 458px;
+            height: 260px;
+            flex-shrink: 0;
+            border-radius: 15px;
+            margin-top: 10px;
+            background: #FFF;
+            .line{
+                background: linear-gradient(270deg, rgba(65, 245, 192, 0.05) 0%, #41F5C0 49.29%, rgba(65, 245, 192, 0.05) 100%);
+                width: 437px;
+                height: 5px;
+                margin-top: 50px;
+            }
+        }
+        .container_block_d4{
+            width: 458px;
+            height: 260px;
+            flex-shrink: 0;
+            border-radius: 15px;
+            margin-top: 10px;
+            background: #FFF;
+            .line{
+                background: linear-gradient(270deg, rgba(65, 245, 192, 0.05) 0%, #41F5C0 49.29%, rgba(65, 245, 192, 0.05) 100%);
+                width: 437px;
+                height: 5px;
+                margin-top: 50px;
+            }
+        }
+        .container_block_d5{
+            width: 458px;
+            height: 260px;
+            flex-shrink: 0;
+            border-radius: 15px;
+            margin-top: 10px;
+            background: #FFF;
+            .line{
+                background: linear-gradient(270deg, rgba(65, 245, 192, 0.05) 0%, #41F5C0 49.29%, rgba(65, 245, 192, 0.05) 100%);
+                width: 437px;
+                height: 5px;
+                margin-top: 50px;
+            }
+        }
+    }
+}
+
+.yulduz{
+    margin: 30px 30px;
+}
+
+.strong{
+    color: var(--Font, #0C1523);
+    font-family: Inter;
+    font-size: 23.94px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; 
+    margin: 0 35px;
+}
+
+.p-1{
+    color: var(--Font, #0C1523);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+    margin-top: 10px;
+    margin: 0 35px;
+
+}

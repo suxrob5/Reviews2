@@ -1,0 +1,252 @@
+.container3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .container3_block{
+        .container3_block__h1{
+            color: var(--Font, #0C1523);
+            font-family: Inter;
+            font-size: 42.536px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+            text-align: center;
+        }
+        .container3_block__p{
+            opacity: 0.7;
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 150%; 
+        }
+    }
+    
+}
+
+.container3_block_d1{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    .container3_block_d1_div1{
+        width: 380px;
+        height: 363px;
+        flex-shrink: 0;
+        background: #FFF;
+        .container3_block_d1_div1__p{
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 31.912px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+    }
+    .container3_block_d1_div2{
+        width: 380px;
+        height: 363px;
+        flex-shrink: 0;
+        background: #FFF;
+        .container3_block_d1_div2__p{
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 31.912px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+    }
+    .container3_block_d1_div3{
+        width: 380px;
+        height: 363px;
+        flex-shrink: 0;
+        background: #FFF;
+        .container3_block_d1_div3__p{
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 31.912px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+    }
+}
+
+.container3_block_d2{
+    display: flex;
+    align-items: center;
+    .container3_block_d2_div4{
+        width: 380px;
+        height: 363px;
+        flex-shrink: 0;
+        background: #FFF;
+        .container3_block_d2_div4__p{
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 31.912px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+    }
+    .container3_block_d2_div5{
+        width: 380px;
+        height: 363px;
+        flex-shrink: 0;
+        background: #FFF;
+        .container3_block_d2_div5__p{
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 31.912px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+    }
+    .container3_block_d2_div6{
+        width: 380px;
+        height: 363px;
+        flex-shrink: 0;
+        background: #FFF;
+        .container3_block_d2_div6__p{
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 31.912px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+    }
+}
+
+.container3_block_d1_div1{
+    .container3_block_d1_div1__p1{
+        opacity: 0.7;
+        color: var(--Font, #0C1523);
+        text-align: center;
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 150%; 
+    }
+    
+}
+.container3_block_d1_div2{
+    .container3_block_d1_div2__p1{
+        opacity: 0.7;
+        color: var(--Font, #0C1523);
+        text-align: center;
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 150%; 
+    }
+}
+.container3_block_d1_div3{
+    .container3_block_d1_div3__p1{
+        opacity: 0.7;
+        color: var(--Font, #0C1523);
+        text-align: center;
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 150%; 
+    }
+}
+
+
+.container3_block_d2{
+    .container3_block_d2_div4{
+        .container3_block_d2_div4__p2{
+            opacity: 0.7;
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 150%;    
+        }
+    }
+}
+.container3_block_d2{
+    .container3_block_d2_div5{
+        .container3_block_d2_div5__p2{
+            opacity: 0.7;
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 150%;    
+        }
+    }
+}
+.container3_block_d2{
+    .container3_block_d2_div6{
+        .container3_block_d2_div6__p2{
+            opacity: 0.7;
+            color: var(--Font, #0C1523);
+            text-align: center;
+            font-family: Inter;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 150%;    
+        }
+    }
+}
+
+.img-one{
+    margin: 60px 150px;
+}
+
+.mini-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+    margin-top: 200px;
+    .mini-container_h1-b{
+        .mini-container_h1-b__h1{
+            color: var(--Font, #0C1523);
+            font-family: Inter;
+            font-size: 31.912px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        }
+        .mini-container_h1-b__p{
+            opacity: 0.7;
+            color: var(--Font, #0C1523);
+            font-family: Inter;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 160%; 
+        }
+    }
+    .mini-container__button{
+        border-radius: 9px;
+        background: var(--Font, #0C1523);
+        padding: 15px 25px;
+        color: var(--Gray, #FAFBFF);
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+}
